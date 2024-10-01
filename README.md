@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ujjwal0Singh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C , Python. 
-- 💞️ I’m looking to collaborate on Frontend Development
+- 👀 I’m certified Full Stack Developer. 
+- 🌱 I have learnt C++(DSA), Python(Numpy and Pandas) and currently learning AI/ML. 
+- 💞️ I’m looking to collaborate on Full Stack Development.
 - 📫 How to reach me 
 
 <!---
